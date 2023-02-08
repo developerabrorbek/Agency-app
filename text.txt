@@ -1,0 +1,1 @@
+after:content[''] after:w-12 after:h-12 after:bottom-[46px] after:right-[50px] after:absolute  after:bg-[url(./images/icons/experience-next.svg)]
